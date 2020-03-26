@@ -1,6 +1,6 @@
 # 10DaysofMLChallenge
-# This repository is for maintaining colab noteboooks for the #10DaysOfMLChallenge 
-
+# This repository is for maintaining colab noteboooks for the #10DaysofMLChallenge 
+Notes: My implementations are just samples for you guys to work on
 # Day1:
 Machine Learning Tools - Numpy, Pandas, Matplotlib 
 - Numpy Documentation: https://numpy.org/devdocs/
