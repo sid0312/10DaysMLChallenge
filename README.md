@@ -79,7 +79,7 @@ Task:
 Do the modeling for these Datasets:
 a) Predict Loan_Status (http://iali.in/datasets/loan_status_train.csv)
 b) Predict rating (http://iali.in/datasets/cereal.csv) 
-[observed Folks doing ctrl+c & ctrl+v from Kaggle hence hosted it on personal Server (it will be deleted after 2 days)]
+
 
 For Advanced Users:
 Analyze the Toxicity of comment's (Data
