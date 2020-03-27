@@ -1,5 +1,5 @@
 # 10DaysofMLChallenge
-# This repository is for maintaining colab noteboooks for the #10DaysofMLChallenge 
+# This repository is for maintaining colab noteboooks for the #10DaysofMLChallenge and also to help beginners towards Deep Learning using Tensorflow
 Notes: My implementations are just samples for you guys to work on
 # Day1:
 Machine Learning Tools - Numpy, Pandas, Matplotlib 
