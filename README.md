@@ -160,18 +160,23 @@ Sentiment Analysis of Movie Reviews: https://towardsdatascience.com/sentiment-an
 
 
 Task: NLP Advanced-Twitter Sentiment Analysis
+
 Detect hate/racist speech in tweets
+
 Plotting WorldCloud for hate words
+
 Plot the graph for hate/racist tweets and non-racist/hate tweets
+
 Using extracting features from cleaned tweets- Bag-of-Words/TF-IDF
      
-How can you proceed: 
-Clean the Data 
-Remove Twitter Handles @ from the data
-Remove Punctuations, Numbers, and Special Characters
-Remove Short Words
-Perform tokenization and stemming
-Understand common words  by plotting WorldcCloud
+How can you proceed:
+
+-Clean the Data 
+-Remove Twitter Handles @ from the data
+-Remove Punctuations, Numbers, and Special Characters
+-Remove Short Words
+-Perform tokenization and stemming
+-Understand common words  by plotting WorldcCloud
 
 
 Dataset: 
