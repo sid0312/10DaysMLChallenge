@@ -174,15 +174,20 @@ Perform tokenization and stemming
 Understand common words  by plotting WorldcCloud
 
 
-Dataset: https://www.kaggle.com/nitin194/twitter-sentiment-analysis
-Training data: train_E6oV3lV.csv
-Testing data: test_tweets_anuFYb8.csv
+Dataset: 
+https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech#train.csv
+
 Resources: 
 https://monkeylearn.com/blog/sentiment-analysis-of-twitter/
-Generating WordCloud: https://www.geeksforgeeks.org/generating-word-cloud-python/
-Twitter Sentiment Analysis tutorial: https://pythonprogramming.net/twitter-sentiment-analysis-nltk-tutorial/
+
+Generating WordCloud: https://www.geeksforgeeks.org/generating-word-cloud-python
+
+Twitter Sentiment Analysis tutorial: https://pythonprogramming.net/twitter-sentiment-analysis-nltk-tutorial
+
 Bag of words model: https://www.geeksforgeeks.org/bag-of-words-bow-model-in-nlp/?ref=rp
-Tokenizing words and sentences- https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial/
-Introduction to Stemming- https://www.geeksforgeeks.org/introduction-to-stemming/
+
+Tokenizing words and sentences- https://pythonprogramming.net/tokenizing-words-sentences-nltk-tutorial
+
+Introduction to Stemming- https://www.geeksforgeeks.org/introduction-to-stemming
  
  
