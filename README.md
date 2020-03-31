@@ -257,17 +257,25 @@ Topic: Machine Learning on the Fly using TF.js
 Resources:
 
 Check these links for some fun code that is easy to use:
+
 Glitch: https://glitch.com/@TensorFlowJS
+
 CodePen: https://codepen.io/topic/tensorflow/templates
+
 Disappearing People: https://github.com/jasonmayes/Real-Time-Person-Removal
+
 For learning more check out:
+
 Deep Learning with JavaScript (covers everything):  https://livebook.manning.com/book/deep-learning-with-javascript/about-this-book/
+
 Gant Laborde's (GDE possibly on this thread) online class is also a fun intro to lower level usage of Tensors:  https://academy.infinite.red/p/beginning-machine-learning-with-tensorflow-js/
+
 Laurence Moroney's Coursera Course - goes more into training models and such with TF.js: https://www.coursera.org/learn/browser-based-models-tensorflow
 by Jason Mayes.
 
 Codelabs:
 https://codelabs.developers.google.com/codelabs/tfjs-training-classfication/index.html
+
 https://codelabs.developers.google.com/codelabs/tfjs-training-regression/index.html#0
 
 Project: Feel free to make any, but the project is important!
