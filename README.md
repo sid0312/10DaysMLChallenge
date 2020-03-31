@@ -1,7 +1,7 @@
 # 10DaysofMLChallenge
 # This repository is for maintaining colab noteboooks for the #10DaysofMLChallenge and also to help beginners towards Deep Learning using Tensorflow
 Notes: My implementations are just samples for you guys to work on
-# Day1:
+# Day 1:
 Machine Learning Tools - Numpy, Pandas, Matplotlib 
 - Numpy Documentation: https://numpy.org/devdocs/
 - Pandas Documentation: https://pandas.pydata.org/docs/
@@ -102,7 +102,7 @@ Task: Prepare a model on the above Dataset
 
 # Day 5:
 
-Day 5: Introduction to CNN 
+Introduction to CNN 
 Resources:
 1. Introduction to CNN- 
 https://towardsdatascience.com/introduction-to-convolutional-neural-networks-cnn-with-tensorflow-57e2f4837e18
@@ -140,7 +140,7 @@ For beginners: https://www.kaggle.com/zalando-research/fashionmnist
 
 For advanced users: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
-# Day 7
+# Day 7:
 
 Topic: Natural Language Processing 
 
